@@ -1,0 +1,6 @@
+material.weather_link:
+  title: 'Weather'
+  route_name: material.weather
+  description: 'Weather'
+  parent: main
+  weight: 99

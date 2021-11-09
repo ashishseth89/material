@@ -1,0 +1,7 @@
+material.weather:
+  path: '/weather'
+  defaults:
+    _title: 'Weather Report'
+    _form: '\Drupal\material\Form\MaterialForm'
+  requirements:
+    _access: 'TRUE'
